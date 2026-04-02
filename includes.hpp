@@ -1,0 +1,17 @@
+#pragma once
+#include <Windows.h>
+#include "driver/driver.hpp"
+#include "other/settings.hpp"
+#include "other/config.h"
+#include "other/input.hpp"
+#include "sdk and offsets/offsets.hpp"
+#include "sdk and offsets/sdk.hpp"
+#include "sdk and offsets/decryption.hpp"
+#include "render/gui.hpp"
+#include "render/fonts.h"
+#include "render/icons.h"
+#include "render/image.h"
+#include "game/game.hpp"
+#include "game/aim/aimbot.h"
+#include "game/esp/esp.h"
+#include "game/exploits/exploits.h"
