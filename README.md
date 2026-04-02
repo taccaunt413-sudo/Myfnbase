@@ -71,22 +71,6 @@ FN Base/
 ├── includes.hpp
 └── main.cpp
 ```
-
----
-
-## Disclaimer
-
-**This project is for educational purposes only.**
-
-It is intended to help developers learn:
-- Kernel-user mode communication
-- External memory manipulation
-- Game reverse engineering
-- Overlay rendering with ImGui
-- Math behind ESP and aimbot systems
-
-The author is not responsible for any bans or damage caused by misuse of this project.
-
 ---
 
 ## Credits
