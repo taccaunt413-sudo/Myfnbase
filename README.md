@@ -58,7 +58,7 @@ FN Base is a clean external Fortnite cheat base written in C++ for educational a
 ---
 
 ## Project Structure
-
+```
 FN Base/
 ├── driver/ # Kernel driver interface
 ├── game/
@@ -70,6 +70,7 @@ FN Base/
 ├── other/ # Config system, settings, input
 ├── includes.hpp
 └── main.cpp
+```
 
 ---
 
