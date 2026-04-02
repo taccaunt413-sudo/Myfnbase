@@ -60,14 +60,14 @@ FN Base is a clean external Fortnite cheat base written in C++ for educational a
 ## Project Structure
 
 FN Base/
-├── driver/                 # Kernel driver interface
+├── driver/ # Kernel driver interface
 ├── game/
-│   ├── aim/                # Aimbot logic
-│   ├── esp/                # ESP drawing functions
-│   └── exploits/           # Feature exploits
-├── render/                 # ImGui + D3D9 rendering
-├── sdk and offsets/        # Game structures, offsets & decryption
-├── other/                  # Config system, settings, input
+│   ├── aim/ # Aimbot logic
+│   ├── esp/ # ESP drawing functions
+│   └── exploits/ # Feature exploits
+├── render/ # ImGui + D3D9 rendering
+├── sdk and offsets/ # Game structures, offsets & decryption
+├── other/ # Config system, settings, input
 ├── includes.hpp
 └── main.cpp
 
