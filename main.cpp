@@ -16,7 +16,7 @@ void main() {
         }
 
         system("cls");
-        printf("Fn Base - By 0Xploit\n");
+        printf("Fn Base - By quotesoditaly");
         printf("Menu Key: INS");
 
         if (!input::init())
